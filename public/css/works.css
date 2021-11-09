@@ -1,0 +1,26 @@
+* {
+  font-family: "Signika Negative", sans-serif;
+  line-height: 1.7;
+  color: #fff;
+  background-color: #071829;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+.img {
+  height: 500px;
+  display: flex;
+}
+.center-img {
+  display: flex;
+  justify-content: center;
+}
+.achiv {
+  display: flex;
+}
+.align {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 30px 100px 10px 100px;
+}
